@@ -1,0 +1,2 @@
+# Search_watch
+This repo aims to be a self-hosted Google auto searcher. This will eventually use Docker for deployment. It's original use was for finding scam websites, but it could be used for anything else. I'd like to make a web interface for this site as well, but my web development skills are limited. This repo is currently in a non-working state though.
